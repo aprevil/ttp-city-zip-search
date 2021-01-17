@@ -1,0 +1,23 @@
+li{
+    margin-left: 100px;
+    margin-right: 100px;
+    color:black;
+    
+}
+ul{
+    border:solid;
+    border-style:outset;
+    margin-left: 500px;
+    margin-right: 500px;
+}
+#header{
+    background-color: black;
+    color: white;
+    margin-right: 50px
+
+}
+#title{
+    background-color: black;
+    color: white;
+    margin: auto;
+}
